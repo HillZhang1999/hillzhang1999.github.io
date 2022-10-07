@@ -1,43 +1,60 @@
-Hi, my name is Yu Zhang ([jy tʃɑŋ], 張宇/张宇 in traditional/simplified Chinese).
-I am a first-year PhD student at [HLT@SUDA](http://hlt.suda.edu.cn), co-advised by [Prof. Guohong Fu](http://web.suda.edu.cn/ghfu/) and [Prof. Zhenghua Li](http://hlt.suda.edu.cn/~zhli) (expected to graduate in 2024). 
-Before this, I received my M. Eng. degree from Soochow University in 2021.
-My main research interest focuses on structured prediction and latent variable models.
+## About Me
 
-Email: [yzhang.cs@outlook.com](mailto:yzhang.cs@outlook.com)
+Hi, my name is Yue Zhang (章岳). I am currently a second-year graduate student at [HLT@SUDA](http://hlt.suda.edu.cn), fortunately advised by [Prof. Zhenghua Li](http://hlt.suda.edu.cn/~zhli) (expected to graduate in 2024). 
+Before this, I received my Bachelor degree from Soochow University in 2021 (software engineering).
+My main research interest focuses on: natural language generation (especially grammatical error correction for English/Chinese) and structured prediction.
 
-### Thesis:
++ Email: [hillzhang1999@qq.com](mailto:hillzhang1999@qq.com)
++ Github: [HillZhang1999](https://github.com/HillZhang1999) 
 
-* TreeCRF­-based High-­Order Syntactic Parsing. Master Thesis, Soochow University, 2021. [[pdf]](https://yzhang.site/pubs/master-thesis.pdf) [[latex]](https://github.com/yzhangcs/master-thesis)
+## Experience
 
-### Publications:
++ 2021 - Now: NLP intern at MinD Lab, Alibaba DAMO Academic.
++ 2021 - Now: Graduate student at NLP Lab, Soochow University, advised by [Prof. Zhenghua Li](http://hlt.suda.edu.cn/~zhli).
++ 2017 - 2021: Undergraduate student at School of Computer Science, Soochow University.
 
-[[Semantic Scholar]](https://www.semanticscholar.org/author/Yu-Zhang/49890808) [[Google Scholar]](https://scholar.google.com/citations?user=y3JK-1oAAAAJ) [[DBLP]](https://dblp.org/pid/50/671-92.html) (* denotes equal contributions)
 
-* Semantic Role Labeling as Dependency Parsing: Exploring Latent Tree Structures Inside Arguments. [[arxiv]](https://arxiv.org/abs/2110.06865) [[code]](https://github.com/yzhangcs/crfsrl) <br>
-**Yu Zhang**, Qingrong Xia, Shilin Zhou, Yong Jiang, Zhenghua Li, Guohong Fu, Min Zhang. 2021.
+## Publications
 
-* A Coarse-to-Fine Labeling Framework for Joint Word Segmentation, POS Tagging, and Constituent Parsing. [[paper]](https://aclanthology.org/2021.conll-1.23) [[code]](https://github.com/ironsword666/jointparser) <br>
-Yang Hou, Houquan Zhou, Zhenghua Li, **Yu Zhang**, Min Zhang, Zhefeng Wang, Baoxing Huai, Nicholas Jing Yuan. 2021.
+### Preprint
 
-* Fast and Accurate Neural CRF Constituency Parsing. [[paper]](https://www.ijcai.org/Proceedings/2020/560/) [[code]](https://github.com/yzhangcs/crfpar) <br>
-**Yu Zhang**, Houquan Zhou, Zhenghua Lig. In _Proceedings of IJCAI_, 2020.
+* Mining Error Templates for Grammatical Error Correction. [[paper]](https://arxiv.org/abs/2206.11569) [[code]](https://github.com/HillZhang1999/gec_error_template) <br>
+**Yue Zhang**, Haochen Jiang, Zuyi Bao, Bo Zhang, Chen Li, Zhenghua Li. 2022. In **_Arxiv_**.
 
-* Efficient Second-Order TreeCRF for Neural Dependency Parsing. [[paper]](https://aclanthology.org/2020.acl-main.302/) [[code]](https://github.com/yzhangcs/crfpar) <br>
-**Yu Zhang**, Zhenghua Li, Min Zhang. In _Proceedings of ACL_, 2020.
+* Technical Report of Suda-Alibaba Team on CTC-2021. [[pdf]](https://github.com/HillZhang1999/CTC-Report/blob/main/Report.pdf) <br>
+**Yue Zhang**, Zuyi Bao, Bo Zhang, Chen Li, Jiacheng Li, Zhenghua Li. 2022.
 
-* Is POS Tagging Necessary or Even Helpful for Neural Dependency Parsing? [[arxiv]](https://arxiv.org/abs/2003.03204) [[code]](https://github.com/Jacob-Zhou/stack-parser) <br>
-Houquan Zhou*, **Yu Zhang***, Zhenghua Li, Min Zhang. In _Proceedings of NLPCC_, 2020. (<span style="color:red;">Best Paper Award</span>)
+### Conference
 
-* HLT@SUDA at SemEval-2019 Task 1: UCCA Graph Parsing as Constituent Tree Parsing. [[paper]](https://aclanthology.org/S19-2002) [[code]](https://github.com/Jacob-Zhou/stack-parser) <br>
-Wei Jiang, Zhenghua Li, **Yu Zhang**, Min Zhang. In _Proceedings of SEMEVAL_, 2019.
+* SynGEC: Syntax-Enhanced Grammatical Error Correction with a Tailored GEC-Oriented Parser. [[paper]](https://openreview.net/pdf?id=juKAm0dKcWp) [[code]](https://github.com/HillZhang1999/SynGEC) <br>
+**Yue Zhang**, Bo Zhang, Zhenghua Li, Zuyi Bao, Chen Li, Min Zhang. To appear in **_EMNLP'22_** (Long).
 
-### Projects:
+* MuCGEC: a Multi-Reference Multi-Source Evaluation Dataset for Chinese Grammatical Error Correction. [[paper]](https://arxiv.org/abs/2204.10994) [[code]](https://github.com/HillZhang1999/MuCGEC) <br>
+**Yue Zhang**, Zhenghua Li, Zuyi Bao, Jiacheng Li, Bo Zhang, Chen Li, Min Zhang. 2022. In **_NAACL_** (Long, Oral).
 
-* **SuPar**: State-of-the-art syntactic/semantic parsers. [[code]](https://github.com/yzhangcs/parser) [[docs]](https://parser.yzhang.site) <br>
-A Python package designed for structured prediction, including reproductions of many state-of-the-art syntactic/semantic parsers (with pretrained models for more than 19 languages), and highly-parallelized implementations of several well-known structured prediction algorithms.
+### Journal
 
-### Experience
+* Pattern-Based Chinese Hypernym-Hyponym Relation Extraction Method. [[paper]](http://qikan.cqvip.com/Qikan/Article/Detail?id=7106411840) [[code]](https://github.com/HillZhang1999/Chinese-Hypernym-Hyponym-Relation-Extraction) <br>
+**Yue Zhang**, Saihao Huang, Kaihua Lu, Zhenghua Li. 2022. In _Computer Applications and Software_.
 
-* 2021 - present. PhD student at Soochow University, co-advised by [Prof. Guohong Fu](http://web.suda.edu.cn/ghfu/) and [Prof. Zhenghua Li](http://hlt.suda.edu.cn/~zhli).
-* 2020 - 2021. Research Intern at Alibaba DAMO Academy, mentored by [Yong Jiang](http://jiangyong.site).
-* 2018 - 2021: M.S. student at Soochow University, advised by [Prof. Zhenghua Li](http://hlt.suda.edu.cn/~zhli).
+## Projects:
+
+* **MuCGEC**: New Chinese GEC datasets for Chinese learners and State-of-the-art CGEC models. [[Repo]](https://github.com/HillZhang1999/MuCGEC) <br> 
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/mucgec?style=social">
+
+
+## Talks
+
+* SUDA&DAMO 's winning solution on WAIC-2022 Chinese Text Correction Shared Task. 2022. (Reported by Datawhale) [[Link]](https://mp.weixin.qq.com/s/bBJ58agJTlCxHhYrP35DNA)
+
+## Competitions
+
+* 1st/600+ Teams on WAIC-2022 Chinese Text Correction Shared Task. (**Team Leader**) [[Task]](https://aistudio.baidu.com/aistudio/competition/detail/404/0/introduction)
+* 1st/200+ Teams on CTC-2021 Chinese Text Correction Shared Task. (**Team Leader**) [[Task]](https://github.com/destwang/CTC2021)
+* 1st/30+ Teams on CGED-2021 Chinese Text Correction Shared Task. [[Task]](https://mp.weixin.qq.com/s?__biz=MzA3OTI3MjEzNg==&mid=2650930231&idx=1&sn=41f23728ecccbf773a737fd531075a96&chksm=84435d90b334d4868b0fbb6078ddc2fc07a35eb3cb94f4133179de8b16f8fb0f9248ae36a2cd&scene=27)
+
+
+## Selected Awards
+* Excellent Graduate Students, Soochow University, 2021.
+* National Scholarship, Soochow University, 2020.
+
