@@ -9,9 +9,9 @@ My main research interest focuses on: natural language generation (especially gr
 
 ## Experience
 
-+ 2021 - Now: NLP intern at MinD Lab, Alibaba DAMO Academic.
-+ 2021 - Now: Graduate student at NLP Lab, Soochow University, advised by [Prof. Zhenghua Li](http://hlt.suda.edu.cn/~zhli).
-+ 2017 - 2021: Undergraduate student at School of Computer Science, Soochow University.
++ 2021 - Now: NLP intern at MinD Lab, **Alibaba DAMO Academic**.
++ 2021 - Now: Graduate student at NLP Lab, **Soochow University**, advised by [Prof. Zhenghua Li](http://hlt.suda.edu.cn/~zhli).
++ 2017 - 2021: Undergraduate student at School of Computer Science, **Soochow University**.
 
 
 ## Publications
