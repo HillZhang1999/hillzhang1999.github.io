@@ -28,7 +28,7 @@ My main research interest focuses on: natural language generation (especially gr
 **Yue Zhang**, Zuyi Bao, Bo Zhang, Chen Li, Jiacheng Li, Zhenghua Li. 2022.
 
 ### Conference
-* Overview of CLTC-2022 Shared Task: Chinese Learner Text Correction. [[paper]]() <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/blcuicall/CCL2022-CLTC?style=social"> <br>
+* Overview of CLTC-2022 Shared Task: Chinese Learner Text Correction. [[paper]](https://blcuicall.org/CCL2022-CLTC/reports/cltc2022-overview.pdf) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/blcuicall/CCL2022-CLTC?style=social"> <br>
 Yingying Wang, Cunliang Kong, Xin Liu, Xuezhi Fang, **Yue Zhang**, Nianning Liang, Tianshuo Zhou, Tianxin Liao, Liner Yang, Zhenghua Li, Gaoqi Rao, Zhenghao Liu, Chen Li, Erhong Yang, Min Zhang, Maosong Sun. In **_CCL'22_** (Overview)
 
 * SynGEC: Syntax-Enhanced Grammatical Error Correction with a Tailored GEC-Oriented Parser. [[paper]](https://arxiv.org/pdf/2210.12484.pdf) [[code]](https://github.com/HillZhang1999/SynGEC) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/syngec?style=social"> <br>
