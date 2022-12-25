@@ -54,6 +54,7 @@ Yingying Wang, Cunliang Kong, Xin Liu, Xuezhi Fang, **Yue Zhang**, Nianning Lian
 
 ## Competitions
 
+* **1st/30+** Teams on CAIL-2022 Chinese Legal Text Correction Shared Task. (**Team Leader**) [[Task]](http://cail.cipsc.org.cn/task2.html?raceID=2&cail_tag=2022)
 * **1st/600+** Teams on WAIC-2022 Chinese Text Correction Shared Task. (**Team Leader**) [[Task]](https://aistudio.baidu.com/aistudio/competition/detail/404/0/introduction)
 * **1st/200+** Teams on CTC-2021 Chinese Text Correction Shared Task. (**Team Leader**) [[Task]](https://github.com/destwang/CTC2021)
 * **1st/30+** Teams on CGED-2021 Chinese Text Correction Shared Task. [[Task]](https://mp.weixin.qq.com/s?__biz=MzA3OTI3MjEzNg==&mid=2650930231&idx=1&sn=41f23728ecccbf773a737fd531075a96&chksm=84435d90b334d4868b0fbb6078ddc2fc07a35eb3cb94f4133179de8b16f8fb0f9248ae36a2cd&scene=27)
