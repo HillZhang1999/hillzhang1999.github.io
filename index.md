@@ -4,6 +4,8 @@ Hi, my name is Yue Zhang (章岳). I am currently a second-year graduate student
 Before this, I received my Bachelor's degree from Soochow University in 2021 (software engineering).
 My main research interest focuses on: natural language generation (especially grammatical error correction for English/Chinese) and structured prediction.
 
+<i style="color:#e74d3c">I am actively looking for a Ph.D. position in 2024 Fall. Feel free to contact me if you are insterested!</i>
+
 + Email: [hillzhang1999@qq.com](mailto:hillzhang1999@qq.com)
 + Github: [HillZhang1999](https://github.com/HillZhang1999) 
 
