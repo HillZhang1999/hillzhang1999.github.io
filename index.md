@@ -21,8 +21,11 @@ My main research interest focuses on: natural language generation (especially gr
 ## Publications
 
 ### Preprint
+* Multi-Task Instruction Tuning of LLaMa for Specific Scenarios: A Preliminary Study on Writing Assistance. [[paper]](https://arxiv.org/abs/2305.13225) <br> 
+**Yue Zhang**, Leyang Cui, Deng Cai, Xinting Huang, Tao Fang, Wei Bi. 2023. In **_Arxiv_**.
+
 * Is ChatGPT a Highly Fluent Grammatical Error Correction System? A Comprehensive Evaluation. [[paper]](https://arxiv.org/abs/2304.01746) <br> 
-Tao Fang, Shu Yang, Kaixin Lan, Derek F. Wong, Jinpeng Hu, Lidia S. Chao, **Yue Zhang**
+Tao Fang, Shu Yang, Kaixin Lan, Derek F. Wong, Jinpeng Hu, Lidia S. Chao, **Yue Zhang**. 2023. In **_Arxiv_**.
 
 * CSynGEC: Incorporating Constituent-based Syntax for Grammatical Error Correction with a Tailored GEC-Oriented Parser. [[paper]](https://arxiv.org/abs/2211.08158) [[code]](https://github.com/HillZhang1999/SynGEC) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/syngec?style=social"> <br> 
 **Yue Zhang**, Zhenghua Li. 2022. In **_Arxiv_**. 
