@@ -46,7 +46,7 @@ Yingying Wang, Cunliang Kong, Xin Liu, Xuezhi Fang, **Yue Zhang**, Nianning Lian
 * SynGEC: Syntax-Enhanced Grammatical Error Correction with a Tailored GEC-Oriented Parser. [[paper]](https://arxiv.org/pdf/2210.12484.pdf) [[code]](https://github.com/HillZhang1999/SynGEC) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/syngec?style=social"> <br>
 **Yue Zhang**, Bo Zhang, Zhenghua Li, Zuyi Bao, Chen Li, Min Zhang. In **_EMNLP'22_** (Long, <strong><i style="color:#e74d3c">_Oral_</i></strong>).
 
-* MuCGEC: a Multi-Reference Multi-Source Evaluation Dataset for Chinese Grammatical Error Correction. [[paper]](https://arxiv.org/abs/2204.10994) [[code]](https://github.com/HillZhang1999/MuCGEC) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/mucgec?style=social"> <br>
+* MuCGEC: a Multi-Reference Multi-Source Evaluation Dataset for Chinese Grammatical Error Correction. [[paper]](https://arxiv.org/abs/2204.10994) [[code]](https://github.com/HillZhang1999/MuCGEC) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/mucgec?style=social"> [![](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/7733c1117fa243c92007b2a6d45137d94d7dce77?fields=citationCount)](https://www.semanticscholar.org/paper/7733c1117fa243c92007b2a6d45137d94d7dce77)<br>
 **Yue Zhang**, Zhenghua Li, Zuyi Bao, Jiacheng Li, Bo Zhang, Chen Li, Min Zhang. In **_NAACL‘22_** (Long, <strong><i style="color:#e74d3c">_Oral_</i></strong>).
 
 ### Journal
