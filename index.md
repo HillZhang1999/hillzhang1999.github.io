@@ -9,7 +9,7 @@ My main research interest focuses on: natural language generation (especially gr
 + Email: [hillzhang1999@qq.com](mailto:hillzhang1999@qq.com)
 + Github: [HillZhang1999](https://github.com/HillZhang1999)
 + Wechat: HillZhang99
-+ Semantic Scholar: [![](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https://api.semanticscholar.org/graph/v1/author/Yue-Zhang/1895977079?fields=citationCount&color=d6d6d6&style=flat-square&logo=semanticscholar)](https://www.semanticscholar.org/author/Yue-Zhang/1895977079)
++ Semantic Scholar: [![](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https://api.semanticscholar.org/graph/v1/author/1895977079?fields=citationCount&color=d6d6d6&style=flat-square&logo=semanticscholar)](https://www.semanticscholar.org/author/Yue-Zhang/1895977079)
 
 ## Experience
 
