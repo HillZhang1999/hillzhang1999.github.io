@@ -61,7 +61,7 @@ Yingying Wang, Cunliang Kong, Xin Liu, Xuezhi Fang, **Yue Zhang**, Nianning Lian
 
 
 ## Talks & Blogs
-* A Survey on LLM Hallucinations. (In Chinese) 2023. [[Link]]([https://mp.weixin.qq.com/s/bBJ58agJTlCxHhYrP35DNA](https://zhuanlan.zhihu.com/p/642648601)) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/llm-hallucination-survey?style=social">
+* A Survey on LLM Hallucinations. (In Chinese) 2023. [[Link]](https://zhuanlan.zhihu.com/p/642648601) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/llm-hallucination-survey?style=social">
 * SUDA&DAMO 's winning solution on WAIC-2022 Chinese Text Correction Shared Task. 2022. (Reported by _Datawhale_) [[Link]](https://mp.weixin.qq.com/s/bBJ58agJTlCxHhYrP35DNA)
 
 ## Competitions
