@@ -9,7 +9,6 @@ My main research interest focuses on: natural language generation (especially gr
 + Email: [hillzhang1999@qq.com](mailto:hillzhang1999@qq.com)
 + Github: [HillZhang1999](https://github.com/HillZhang1999)
 + Wechat: HillZhang99
-+ Semantic Scholar: [![](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https://api.semanticscholar.org/graph/v1/author/1895977079?fields=citationCount&color=d6d6d6&style=flat-square&logo=semanticscholar)](https://www.semanticscholar.org/author/Yue-Zhang/1895977079)
 
 ## Experience
 
@@ -22,7 +21,7 @@ My main research interest focuses on: natural language generation (especially gr
 ## Publications
 
 ### Preprint
-* Multi-Task Instruction Tuning of LLaMa for Specific Scenarios: A Preliminary Study on Writing Assistance. [[paper]](https://arxiv.org/abs/2305.13225) [![](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/a6df4b0c0cee5865a29bb7b9d4d424821de0681f?fields=citationCount)](https://www.semanticscholar.org/paper/a6df4b0c0cee5865a29bb7b9d4d424821de0681f)<br> 
+* Multi-Task Instruction Tuning of LLaMA for Specific Scenarios: A Preliminary Study on Writing Assistance. [[paper]](https://arxiv.org/abs/2305.13225) [![](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/a6df4b0c0cee5865a29bb7b9d4d424821de0681f?fields=citationCount)](https://www.semanticscholar.org/paper/a6df4b0c0cee5865a29bb7b9d4d424821de0681f)<br> 
 **Yue Zhang**, Leyang Cui, Deng Cai, Xinting Huang, Tao Fang, Wei Bi. 2023. In **_Arxiv_**.
 
 * Is ChatGPT a Highly Fluent Grammatical Error Correction System? A Comprehensive Evaluation. [[paper]](https://arxiv.org/abs/2304.01746) [![](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/93d6fa92d60938b5bd0e405e159832b91332f169?fields=citationCount)](https://www.semanticscholar.org/paper/93d6fa92d60938b5bd0e405e159832b91332f169)<br> 
@@ -52,7 +51,7 @@ Yingying Wang, Cunliang Kong, Xin Liu, Xuezhi Fang, **Yue Zhang**, Nianning Lian
 
 ### Journal
 
-* Pattern-Based Chinese Hypernym-Hyponym Relation Extraction Method. [[paper]](http://qikan.cqvip.com/Qikan/Article/Detail?id=7106411840) [[code]](https://github.com/HillZhang1999/Chinese-Hypernym-Hyponym-Relation-Extraction) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/Chinese-Hypernym-Hyponym-Relation-Extraction?style=social"><br>
+* Pattern-Based Chinese Hypernym-Hyponym Relation Extraction Method. (In Chinese) [[paper]](http://qikan.cqvip.com/Qikan/Article/Detail?id=7106411840) [[code]](https://github.com/HillZhang1999/Chinese-Hypernym-Hyponym-Relation-Extraction) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/Chinese-Hypernym-Hyponym-Relation-Extraction?style=social"><br>
 **Yue Zhang**, Saihao Huang, Kaihua Lu, Zhenghua Li. 2022. In _Computer Applications and Software_.
 
 <!-- ## Projects:
@@ -61,8 +60,8 @@ Yingying Wang, Cunliang Kong, Xin Liu, Xuezhi Fang, **Yue Zhang**, Nianning Lian
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/mucgec?style=social"> -->
 
 
-## Talks
-
+## Talks & Blogs
+* A Survey on LLM Hallucinations. (In Chinese) 2023. [[Link]]([https://mp.weixin.qq.com/s/bBJ58agJTlCxHhYrP35DNA](https://zhuanlan.zhihu.com/p/642648601)) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/llm-hallucination-survey?style=social">
 * SUDA&DAMO 's winning solution on WAIC-2022 Chinese Text Correction Shared Task. 2022. (Reported by _Datawhale_) [[Link]](https://mp.weixin.qq.com/s/bBJ58agJTlCxHhYrP35DNA)
 
 ## Competitions
