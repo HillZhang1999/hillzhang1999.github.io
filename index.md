@@ -23,6 +23,9 @@ My main research interest focuses on large language models (e.g., the factuality
 ## Publications
 
 ### Preprint
+* Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models [[paper]](https://arxiv.org/abs/2309.01219) [[repo]](https://github.com/HillZhang1999/llm-hallucination-survey) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/llm-hallucination-survey?style=social"> [![](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/a6df4b0c0cee5865a29bb7b9d4d424821de0681f?fields=citationCount)](https://www.semanticscholar.org/paper/a6df4b0c0cee5865a29bb7b9d4d424821de0681f)<br> 
+**Yue Zhang**, Yafu Li, Leyang Cui, Deng Cai, Lemao Liu, Tingchen Fu, Xinting Huang, Enbo Zhao, Yu Zhang, Yulong Chen, Longyue Wang, Anh Tuan Luu, Wei Bi, Freda Shi, Shuming Shi. 2023. In **_Arxiv_**.
+  
 * Multi-Task Instruction Tuning of LLaMA for Specific Scenarios: A Preliminary Study on Writing Assistance. [[paper]](https://arxiv.org/abs/2305.13225) [![](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/a6df4b0c0cee5865a29bb7b9d4d424821de0681f?fields=citationCount)](https://www.semanticscholar.org/paper/a6df4b0c0cee5865a29bb7b9d4d424821de0681f)<br> 
 **Yue Zhang**, Leyang Cui, Deng Cai, Xinting Huang, Tao Fang, Wei Bi. 2023. In **_Arxiv_**.
 
