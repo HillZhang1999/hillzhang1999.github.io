@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, my name is Yue Zhang (章岳). I am currently a second-year graduate student at [HLT@SUDA](http://hlt.suda.edu.cn), fortunately advised by [Prof. Zhenghua Li](http://hlt.suda.edu.cn/~zhli) (expected to graduate in 2024). 
+Hi, my name is Yue Zhang (章岳). I am currently a final-year graduate student at [HLT@SUDA](http://hlt.suda.edu.cn), fortunately advised by [Prof. Zhenghua Li](http://hlt.suda.edu.cn/~zhli) (expected to graduate in 2024). 
 Before this, I received my Bachelor's degree from Soochow University in 2021 (software engineering).
 My main research interest focuses on large language models (e.g., the factuality of LLM-generated content) and their applications (e.g., the writing-related scenario).
 
@@ -21,7 +21,6 @@ My main research interest focuses on large language models (e.g., the factuality
 
 
 ## Publications
-_* denotes equal contribution._
 
 ### Preprint
 * Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models [[paper]](https://arxiv.org/abs/2309.01219) [[repo]](https://github.com/HillZhang1999/llm-hallucination-survey) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/llm-hallucination-survey?style=social"> [![](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/669441cb46666036f663f19def44bec2a838a518?fields=citationCount)](https://www.semanticscholar.org/paper/669441cb46666036f663f19def44bec2a838a518)<br> 
@@ -50,7 +49,7 @@ Yingying Wang, Cunliang Kong, Xin Liu, Xuezhi Fang, **Yue Zhang**, Nianning Lian
 **Yue Zhang**, Leyang Cui, Enbo Zhao, Wei Bi, Shuming Shi. In **_EMNLP'23_** (Long).
 
 * Non-autoregressive Text Editing with Copy-aware Latent Alignments. [[paper]]() [[code]]() <br>
-Yu Zhang*, **Yue Zhang***, Leyang Cui, Guohong Fu In **_EMNLP'23_** (Long).
+Yu Zhang\*, **Yue Zhang\***, Leyang Cui, Guohong Fu In **_EMNLP'23_** (Long).
 
 * NasGEC: Multi-Domain Chinese Grammatical Error Correction for Native Speaker Texts. [[paper]](https://arxiv.org/pdf/2305.16023.pdf) [[code]](https://github.com/HillZhang1999/NaSGEC) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/nasgec?style=social"> [![](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/dd521a5f10275efbb2346e1265f7977f24880161?fields=citationCount)](https://www.semanticscholar.org/paper/dd521a5f10275efbb2346e1265f7977f24880161)<br>
 **Yue Zhang**, Bo Zhang, Haochen Jiang, Zhenghua Li, Chen Li, Fei Huang, Min Zhang. In **_ACL'23_** (Long, Findings).
@@ -66,6 +65,7 @@ Yu Zhang*, **Yue Zhang***, Leyang Cui, Guohong Fu In **_EMNLP'23_** (Long).
 * Pattern-Based Chinese Hypernym-Hyponym Relation Extraction Method. (In Chinese) [[paper]](http://qikan.cqvip.com/Qikan/Article/Detail?id=7106411840) [[code]](https://github.com/HillZhang1999/Chinese-Hypernym-Hyponym-Relation-Extraction) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/Chinese-Hypernym-Hyponym-Relation-Extraction?style=social"><br>
 **Yue Zhang**, Saihao Huang, Kaihua Lu, Zhenghua Li. 2022. In _Computer Applications and Software_.
 
+_* denotes equal contribution._
 <!-- ## Projects:
 
 * **MuCGEC**: New Chinese GEC datasets for Chinese learners and State-of-the-art CGEC models. [[Repo]](https://github.com/HillZhang1999/MuCGEC) <br> 
