@@ -21,9 +21,10 @@ My main research interest focuses on large language models (e.g., the factuality
 
 
 ## Publications
+_* denotes equal contribution._
 
 ### Preprint
-* Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models [[paper]](https://arxiv.org/abs/2309.01219) [[repo]](https://github.com/HillZhang1999/llm-hallucination-survey) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/llm-hallucination-survey?style=social"> [![](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/a6df4b0c0cee5865a29bb7b9d4d424821de0681f?fields=citationCount)](https://www.semanticscholar.org/paper/a6df4b0c0cee5865a29bb7b9d4d424821de0681f)<br> 
+* Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models [[paper]](https://arxiv.org/abs/2309.01219) [[repo]](https://github.com/HillZhang1999/llm-hallucination-survey) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/llm-hallucination-survey?style=social"> [![](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/669441cb46666036f663f19def44bec2a838a518?fields=citationCount)](https://www.semanticscholar.org/paper/669441cb46666036f663f19def44bec2a838a518)<br> 
 **Yue Zhang**, Yafu Li, Leyang Cui, Deng Cai, Lemao Liu, Tingchen Fu, Xinting Huang, Enbo Zhao, Yu Zhang, Yulong Chen, Longyue Wang, Anh Tuan Luu, Wei Bi, Freda Shi, Shuming Shi. 2023. In **_Arxiv_**.
   
 * Multi-Task Instruction Tuning of LLaMA for Specific Scenarios: A Preliminary Study on Writing Assistance. [[paper]](https://arxiv.org/abs/2305.13225) [![](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/a6df4b0c0cee5865a29bb7b9d4d424821de0681f?fields=citationCount)](https://www.semanticscholar.org/paper/a6df4b0c0cee5865a29bb7b9d4d424821de0681f)<br> 
@@ -44,6 +45,12 @@ Tao Fang, Shu Yang, Kaixin Lan, Derek F. Wong, Jinpeng Hu, Lidia S. Chao, **Yue 
 ### Conference
 * Overview of CLTC-2022 Shared Task: Chinese Learner Text Correction. [[paper]](https://blcuicall.org/CCL2022-CLTC/reports/cltc2022-overview.pdf) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/blcuicall/CCL2022-CLTC?style=social"> <br>
 Yingying Wang, Cunliang Kong, Xin Liu, Xuezhi Fang, **Yue Zhang**, Nianning Liang, Tianshuo Zhou, Tianxin Liao, Liner Yang, Zhenghua Li, Gaoqi Rao, Zhenghao Liu, Chen Li, Erhong Yang, Min Zhang, Maosong Sun. In **_CCL'22_** (Overview)
+
+* RobustGEC: Robust Grammatical Error Correction Against Subtle Context Perturbation.[[paper]]() [[code]]() <br>
+**Yue Zhang**, Leyang Cui, Enbo Zhao, Wei Bi, Shuming Shi. In **_EMNLP'23_** (Long).
+
+* Non-autoregressive Text Editing with Copy-aware Latent Alignments. [[paper]]() [[code]]() <br>
+Yu Zhang*, **Yue Zhang***, Leyang Cui, Guohong Fu In **_EMNLP'23_** (Long).
 
 * NasGEC: Multi-Domain Chinese Grammatical Error Correction for Native Speaker Texts. [[paper]](https://arxiv.org/pdf/2305.16023.pdf) [[code]](https://github.com/HillZhang1999/NaSGEC) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/nasgec?style=social"> [![](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/dd521a5f10275efbb2346e1265f7977f24880161?fields=citationCount)](https://www.semanticscholar.org/paper/dd521a5f10275efbb2346e1265f7977f24880161)<br>
 **Yue Zhang**, Bo Zhang, Haochen Jiang, Zhenghua Li, Chen Li, Fei Huang, Min Zhang. In **_ACL'23_** (Long, Findings).
