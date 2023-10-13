@@ -21,7 +21,6 @@ My main research interest focuses on large language models (e.g., the factuality
 
 
 ## Publications
-
 ### Preprint
 * Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models [[paper]](https://arxiv.org/abs/2309.01219) [[repo]](https://github.com/HillZhang1999/llm-hallucination-survey) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/llm-hallucination-survey?style=social"> [![](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/669441cb46666036f663f19def44bec2a838a518?fields=citationCount)](https://www.semanticscholar.org/paper/669441cb46666036f663f19def44bec2a838a518)<br> 
 **Yue Zhang**, Yafu Li, Leyang Cui, Deng Cai, Lemao Liu, Tingchen Fu, Xinting Huang, Enbo Zhao, Yu Zhang, Yulong Chen, Longyue Wang, Anh Tuan Luu, Wei Bi, Freda Shi, Shuming Shi. 2023. In **_Arxiv_**.
@@ -45,11 +44,11 @@ Tao Fang, Shu Yang, Kaixin Lan, Derek F. Wong, Jinpeng Hu, Lidia S. Chao, **Yue 
 * Overview of CLTC-2022 Shared Task: Chinese Learner Text Correction. [[paper]](https://blcuicall.org/CCL2022-CLTC/reports/cltc2022-overview.pdf) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/blcuicall/CCL2022-CLTC?style=social"> <br>
 Yingying Wang, Cunliang Kong, Xin Liu, Xuezhi Fang, **Yue Zhang**, Nianning Liang, Tianshuo Zhou, Tianxin Liao, Liner Yang, Zhenghua Li, Gaoqi Rao, Zhenghao Liu, Chen Li, Erhong Yang, Min Zhang, Maosong Sun. In **_CCL'22_** (Overview)
 
-* RobustGEC: Robust Grammatical Error Correction Against Subtle Context Perturbation.[[paper]]() [[code]]() <br>
-**Yue Zhang**, Leyang Cui, Enbo Zhao, Wei Bi, Shuming Shi. In **_EMNLP'23_** (Long).
+* RobustGEC: Robust Grammatical Error Correction Against Subtle Context Perturbation.[[paper]](https://arxiv.org/pdf/2310.07299.pdf) [[code]](https://github.com/HillZhang1999/RobustGEC) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/robustgec?style=social"> [![](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/d8396d638bd3dadab8da65d58505cc32271ca03b?fields=citationCount)](https://www.semanticscholar.org/paper/d8396d638bd3dadab8da65d58505cc32271ca03b)<br>
+**Yue Zhang**, Leyang Cui, Enbo Zhao, Wei Bi, Shuming Shi. In **_EMNLP'23_** ((Long, Main).
 
-* Non-autoregressive Text Editing with Copy-aware Latent Alignments. [[paper]]() [[code]]() <br>
-Yu Zhang\*, **Yue Zhang\***, Leyang Cui, Guohong Fu In **_EMNLP'23_** (Long).
+* Non-autoregressive Text Editing with Copy-aware Latent Alignments. [[paper]](https://arxiv.org/pdf/2310.07821.pdf) [[code]](https://github.com/yzhangcs/ctc-copy) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/yzhangcs/ctc-copy?style=social"> [![](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/116277fd27c97d50bba2d8023d3c590c1ea8187b?fields=citationCount)](https://www.semanticscholar.org/paper/116277fd27c97d50bba2d8023d3c590c1ea8187b)<br>
+Yu Zhang\*, **Yue Zhang\***, Leyang Cui, Guohong Fu In **_EMNLP'23_** (Long, Main).
 
 * NasGEC: Multi-Domain Chinese Grammatical Error Correction for Native Speaker Texts. [[paper]](https://arxiv.org/pdf/2305.16023.pdf) [[code]](https://github.com/HillZhang1999/NaSGEC) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/nasgec?style=social"> [![](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/dd521a5f10275efbb2346e1265f7977f24880161?fields=citationCount)](https://www.semanticscholar.org/paper/dd521a5f10275efbb2346e1265f7977f24880161)<br>
 **Yue Zhang**, Bo Zhang, Haochen Jiang, Zhenghua Li, Chen Li, Fei Huang, Min Zhang. In **_ACL'23_** (Long, Findings).
@@ -85,7 +84,7 @@ _* denotes equal contribution._
 * **1st/30+** Teams on CGED-2021 Chinese Text Correction Shared Task. [[Task]](https://mp.weixin.qq.com/s?__biz=MzA3OTI3MjEzNg==&mid=2650930231&idx=1&sn=41f23728ecccbf773a737fd531075a96&chksm=84435d90b334d4868b0fbb6078ddc2fc07a35eb3cb94f4133179de8b16f8fb0f9248ae36a2cd&scene=27)
 
 ## Academic Services
-* Reviewer: ACL-2023, EMNLP-2022/2023, COLING-2022, AAAI-2023.
+* **Reviewer**: ACL-2023, EMNLP-2022/2023, COLING-2022, AAAI-2023.
 
 
 ## Selected Awards
