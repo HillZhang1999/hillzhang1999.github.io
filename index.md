@@ -45,10 +45,10 @@ Tao Fang, Shu Yang, Kaixin Lan, Derek F. Wong, Jinpeng Hu, Lidia S. Chao, **Yue 
 Yingying Wang, Cunliang Kong, Xin Liu, Xuezhi Fang, **Yue Zhang**, Nianning Liang, Tianshuo Zhou, Tianxin Liao, Liner Yang, Zhenghua Li, Gaoqi Rao, Zhenghao Liu, Chen Li, Erhong Yang, Min Zhang, Maosong Sun. In **_CCL'22_** (Overview)
 
 * RobustGEC: Robust Grammatical Error Correction Against Subtle Context Perturbation.[[paper]](https://arxiv.org/pdf/2310.07299.pdf) [[code]](https://github.com/HillZhang1999/RobustGEC) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/robustgec?style=social"> [![](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/d8396d638bd3dadab8da65d58505cc32271ca03b?fields=citationCount)](https://www.semanticscholar.org/paper/d8396d638bd3dadab8da65d58505cc32271ca03b)<br>
-**Yue Zhang**, Leyang Cui, Enbo Zhao, Wei Bi, Shuming Shi. In **_EMNLP'23_** ((Long, Main).
+**Yue Zhang**, Leyang Cui, Enbo Zhao, Wei Bi, Shuming Shi. In **_EMNLP'23_** (Long, Main).
 
 * Non-autoregressive Text Editing with Copy-aware Latent Alignments. [[paper]](https://arxiv.org/pdf/2310.07821.pdf) [[code]](https://github.com/yzhangcs/ctc-copy) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/yzhangcs/ctc-copy?style=social"> [![](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/116277fd27c97d50bba2d8023d3c590c1ea8187b?fields=citationCount)](https://www.semanticscholar.org/paper/116277fd27c97d50bba2d8023d3c590c1ea8187b)<br>
-Yu Zhang\*, **Yue Zhang\***, Leyang Cui, Guohong Fu In **_EMNLP'23_** (Long, Main).
+Yu Zhang\*, **Yue Zhang\***, Leyang Cui, Guohong Fu. In **_EMNLP'23_** (Long, Main).
 
 * NasGEC: Multi-Domain Chinese Grammatical Error Correction for Native Speaker Texts. [[paper]](https://arxiv.org/pdf/2305.16023.pdf) [[code]](https://github.com/HillZhang1999/NaSGEC) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/nasgec?style=social"> [![](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/dd521a5f10275efbb2346e1265f7977f24880161?fields=citationCount)](https://www.semanticscholar.org/paper/dd521a5f10275efbb2346e1265f7977f24880161)<br>
 **Yue Zhang**, Bo Zhang, Haochen Jiang, Zhenghua Li, Chen Li, Fei Huang, Min Zhang. In **_ACL'23_** (Long, Findings).
