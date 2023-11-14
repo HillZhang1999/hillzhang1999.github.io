@@ -89,5 +89,5 @@ _* denotes equal contribution._
 
 ## Selected Awards
 * **Excellent Graduate Students**, Soochow University, 2021.
-* **National Scholarship**, Soochow University, 2020.
+* **National Scholarship**, Soochow University, 2020, 2022.
 
