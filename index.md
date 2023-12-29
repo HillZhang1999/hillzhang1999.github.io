@@ -22,6 +22,9 @@ My main research interest focuses on large language models (e.g., the factuality
 
 ## Publications
 ### Preprint
+* Alleviating Hallucinations of Large Language Models through Induced Hallucinations [[paper]](https://arxiv.org/abs/2312.15710) [[repo]](https://github.com/HillZhang1999/icd) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/icd?style=social"> [![](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/3f915aab835cbfe69e7b2ea1c73b74ac8a2d384e?fields=citationCount)](https://www.semanticscholar.org/paper/3f915aab835cbfe69e7b2ea1c73b74ac8a2d384e)
+**Yue Zhang**, Leyang Cui, Wei Bi, Shuming Shi. 2023. In **_Arxiv_**.
+  
 * Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models [[paper]](https://arxiv.org/abs/2309.01219) [[repo]](https://github.com/HillZhang1999/llm-hallucination-survey) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hillzhang1999/llm-hallucination-survey?style=social"> [![](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/669441cb46666036f663f19def44bec2a838a518?fields=citationCount)](https://www.semanticscholar.org/paper/669441cb46666036f663f19def44bec2a838a518)<br> 
 **Yue Zhang**, Yafu Li, Leyang Cui, Deng Cai, Lemao Liu, Tingchen Fu, Xinting Huang, Enbo Zhao, Yu Zhang, Yulong Chen, Longyue Wang, Anh Tuan Luu, Wei Bi, Freda Shi, Shuming Shi. 2023. In **_Arxiv_**.
   
