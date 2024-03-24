@@ -15,7 +15,8 @@ My main research interest focuses on large language models (e.g., the factuality
 ## Experience
 
 + 2021 - Now: Graduate student at NLP Lab, **Soochow University**, advised by [Prof. Zhenghua Li](http://hlt.suda.edu.cn/~zhli).
-+ 2023 - Now: NLP intern at **Tencent AI Lab**, mentored by [Dr. Leyang Cui](https://nealcly.github.io/).
++ 2024 - Now: NLP R&D at **Bytedance LLM**.
++ 2023 - 2024: NLP intern at **Tencent AI Lab**, mentored by [Dr. Leyang Cui](https://nealcly.github.io/).
 + 2021 - 2023: NLP intern at MinD Lab, **Alibaba DAMO Academic**.
 + 2017 - 2021: Undergraduate student at School of Computer Science, **Soochow University**.
 
